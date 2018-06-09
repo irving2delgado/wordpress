@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>FirstDemo</title>
+	<atom:link href="/https://github.com/irving2delgado/wordpress.git/feed/" rel="self" type="application/rss+xml" />
+	<link>/https://github.com/irving2delgado/wordpress.git/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Fri, 08 Jun 2018 21:27:03 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.6</generator>
+
+<image>
+	<url>/https://github.com/irving2delgado/wordpress.git/wp-content/uploads/2018/06/cropped-m111111-32x32.png</url>
+	<title>FirstDemo</title>
+	<link>/https://github.com/irving2delgado/wordpress.git/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Moschino Marketing Is Live!!!</title>
+		<link>/https://github.com/irving2delgado/wordpress.git/moschino-marketing-is-live/</link>
+		<comments>/https://github.com/irving2delgado/wordpress.git/moschino-marketing-is-live/#respond</comments>
+		<pubDate>Fri, 08 Jun 2018 20:49:58 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Press Release]]></category>
+
+		<guid isPermaLink="false">/https://github.com/irving2delgado/wordpress.git/?p=76</guid>
+		<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ut sodales mauris. Integer hendrerit tincidunt maximus. Nulla facilisi. Vestibulum nec erat in metus luctus vehicula et venenatis nisl. Nulla sem mauris, convallis porttitor mauris at, elementum vestibulum elit. Donec sagittis nisi et quam rhoncus commodo. Proin non iaculis dui. Curabitur laoreet turpis eget magna sollicitudin [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ut sodales mauris. Integer hendrerit tincidunt maximus. Nulla facilisi. Vestibulum nec erat in metus luctus vehicula et venenatis nisl. Nulla sem mauris, convallis porttitor mauris at, elementum vestibulum elit. Donec sagittis nisi et quam rhoncus commodo. Proin non iaculis dui. Curabitur laoreet turpis eget magna sollicitudin hendrerit. Curabitur pulvinar arcu in erat gravida scelerisque. Sed volutpat lacinia augue at pharetra. Donec bibendum nulla sem, non commodo mi rutrum vitae. Cras vulputate arcu consequat lacinia bibendum. Suspendisse lobortis, nisi eget suscipit feugiat, nibh lorem accumsan dui, eu feugiat ante elit ut risus. Sed iaculis aliquam ipsum id interdum.</p>
+<p>Ut suscipit nisl arcu, ac gravida lectus euismod eget. Morbi leo orci, molestie ac ex non, vulputate feugiat eros. Ut ultricies sit amet est eu porta. Aliquam volutpat, tellus eu auctor sagittis, leo enim consectetur velit, eget lobortis sapien quam nec leo. Vivamus bibendum massa vitae maximus varius. In hac habitasse platea dictumst. Integer scelerisque, enim eget rhoncus luctus, nibh ex tincidunt lacus, id venenatis est sem at metus. Suspendisse posuere bibendum erat, sit amet sollicitudin metus vulputate sed. In mollis nibh volutpat ligula tempor mollis. Sed gravida mollis nisl id dictum.</p>
+<p>Nulla vel elementum leo. Sed non fringilla nibh. Vivamus convallis metus non pulvinar ultricies. Etiam at eleifend lacus, et porta sem. Suspendisse magna erat, faucibus quis velit id, consequat mollis ex. Nam in nisi risus. Fusce placerat, magna a commodo varius, purus nulla iaculis massa, et ullamcorper quam felis at felis. Quisque a mollis eros, sit amet consectetur orci. Suspendisse tellus enim, iaculis sit amet condimentum id, pharetra in ex. Fusce in tellus vel est placerat feugiat vel tincidunt elit. Phasellus mollis ante nulla, quis congue mi efficitur ut. Donec feugiat cursus lacus non efficitur. Phasellus lacinia dapibus quam, a aliquam arcu viverra in. Duis sagittis laoreet turpis, quis sodales velit blandit a.</p>
+]]></content:encoded>
+			<wfw:commentRss>/https://github.com/irving2delgado/wordpress.git/moschino-marketing-is-live/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
